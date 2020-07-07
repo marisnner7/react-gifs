@@ -2,6 +2,7 @@ import React, { Component } from "react";
 
 import SearchBar from './search_bar';
 
+import Gif from './gif';
 
 class App extends Component{
   render(){
