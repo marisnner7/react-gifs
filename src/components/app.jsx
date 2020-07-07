@@ -4,6 +4,8 @@ import SearchBar from './search_bar';
 
 import Gif from './gif';
 
+import GifList from './gif_list';
+
 class App extends Component{
   render(){
     return (
